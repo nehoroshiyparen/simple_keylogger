@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/ivankuzin/Documents/python/logg/client/client.py", line 5, in <module>
+    import daemonize
+ModuleNotFoundError: No module named 'daemonize'

